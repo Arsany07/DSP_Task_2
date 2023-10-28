@@ -48,5 +48,3 @@ To use the Sampling Studio app, follow these steps:
 7. **Noise Addition**: In the "Signal Viewer" section, adjust the SNR level slider to add noise to the loaded or composed signal. The noisy signal will be displayed in the first graph.
 
 8. **Exporting**: The app allows you to export the composed signals for further analysis when the user clicked on “Save Composed Signal” button. Use the provided export options to save the signals in csv file format.
-
- 
